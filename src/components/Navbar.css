@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.nav_links
+{
+    text-decoration: none;
+}
