@@ -1,13 +1,28 @@
-body{
-    background-color: aqua;
+* {
+  color: rgb(13, 13, 13);
+  padding-left: 10px;
+  padding-right: 10px;
 }
-.container
-{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+span {
+  width: 62.56px;
+  height: 16.02px;
+  top: 74.29px;
+  left: 135.66px;
 }
-.nav_links
-{
-    text-decoration: none;
+.nav-item {
+  width: 152px;
+  height: 25px;
+  left: 267px;
+}
+.btnofbtn {
+  background: #ff4820;
+}
+
+.d-flex {
+  border: none;
+}
+@media (max-width: 480px) {
+  .d-flex {
+    width: 50px;
+  }
 }
