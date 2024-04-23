@@ -1,3 +1,4 @@
+
 .container {
   display: flex;
   justify-content: space-between;
@@ -38,6 +39,9 @@
 .items-compny {
   text-align: center;
   margin-bottom: 130px;
+}
+.child2 img{
+  width: 100%;
 }
 @media only screen and (max-width: 600px) {
   .container {
