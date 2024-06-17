@@ -1,3 +1,4 @@
+import './App.css'
 import Application from "./components/Application"
 import CTA from "./components/CTA"
 import Cards from "./components/Cards"
@@ -9,7 +10,6 @@ import Navbar from "./components/Navbar"
 const App = () => {
   return (
     <div>
-      {/* <Navbar /> */}
       <Header />
       <CTA />
       <Feature />

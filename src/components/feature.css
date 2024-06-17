@@ -3,6 +3,10 @@
   display: flex;
   justify-content: space-between;
 }
+*{
+  padding-left:10px;
+  padding-right: 10px;
+}
 .feature1 {
   width: 426px;
   font-size: 30px;
