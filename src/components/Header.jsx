@@ -32,7 +32,7 @@ const Header = () => {
           </div>
         </div>
         <div className="child2">
-          <img src={ai} />
+             <img src={ai} />
         </div>
       </div>
       <div className="items-compny">
