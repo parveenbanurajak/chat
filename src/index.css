@@ -1,3 +1,4 @@
-*{
+body{
     max-width: 100%;
+    background: radial-gradient(circle at 10% 20%, rgb(166, 226, 229) 0%, rgb(198, 232, 221) 100.2%);
 }
