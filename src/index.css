@@ -1,4 +1,9 @@
 body{
     max-width: 100%;
-    background: radial-gradient(circle at 10% 20%, rgb(166, 226, 229) 0%, rgb(198, 232, 221) 100.2%);
+    background: linear-gradient(to right, #1A1A40, #2D2D88);
+
+    color: white;
+}
+h1, h2, h3, p, a, span, div, ul, li {
+    color: white;
 }
